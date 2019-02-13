@@ -25,38 +25,38 @@ export const robots = [
   },
   {
     id: 50,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
-    email: 'Lucio_Hettinger@annie.ca'
+    name: 'Luffy',
+    username: 'luffy',
+    email: 'luffy.onepiece@annie.ca'
   },
   {
     id: 60,
-    name: 'Mrs. Dennis Schulist',
-    username: 'Leopoldo_Corkery',
-    email: 'Karley_Dach@jasper.info'
+    name: 'Zoro',
+    username: 'zoro_killer',
+    email: 'zoro@onepiece.info'
   },
   {
     id: 70,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
-    email: 'Telly.Hoeger@billy.biz'
+    name: 'Sanji',
+    username: 'alis kriting',
+    email: 'sanji@onepiece.info'
   },
   {
     id: 80,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
-    email: 'Sherwood@rosamond.me'
+    name: 'Nico Robin',
+    username: 'robin-chan',
+    email: 'robin@onepiece.info'
   },
   {
     id: 90,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
-    email: 'Chaim_McDermott@dana.io'
+    name: 'Nami',
+    username: 'nami-chan',
+    email: 'nami@onepiece.info'
   },
   {
     id: 100,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
-    email: 'Rey.Padberg@karina.biz'
+    name: 'chooper',
+    username: 'cutton candy',
+    email: 'chooper@onepiece.info'
   }
 ];

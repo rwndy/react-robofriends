@@ -19,9 +19,9 @@ export const robots = [
   },
   {
     id: 40,
-    name: 'Ronaldowati',
-    username: 'wati',
-    email: 'ronaldo.wati@kory.org'
+    name: 'brook',
+    username: 'soulking',
+    email: 'soulking@onepiece.info'
   },
   {
     id: 50,
@@ -58,5 +58,17 @@ export const robots = [
     name: 'chooper',
     username: 'cutton candy',
     email: 'chooper@onepiece.info'
-  }
+  },
+  {
+    id: 110,
+    name: 'Jinbei',
+    username: 'jinbei-chan',
+    email: 'jinbei@onepiece.info'
+  },
+  {
+    id: 120,
+    name: 'frankie',
+    username: 'frankie-chan',
+    email: 'frankie@onepiece.info'
+  },
 ];
